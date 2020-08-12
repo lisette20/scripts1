@@ -2,6 +2,9 @@
 
 
 #Description: script to display system info
+ #author: lily
+ #date:July 2020
+
 
 
 lscpu
